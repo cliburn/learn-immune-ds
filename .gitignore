@@ -1,3 +1,14 @@
+*.fasta
+*.netmhciipan
+*.tepitope
+netMHCIIpan-4.1
+netMHCpan-4.1
+*.DS_Store
+*.pem
+*.bash_history
+*.jupyter
+*.local
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
