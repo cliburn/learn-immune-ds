@@ -2,6 +2,13 @@
 *.netmhciipan
 *.tepitope
 *.pem
+*.txt
+README.pdf
+alleles.csv
+
+supporting_file/
+models/
+
 .DS_Store
 .bash_history
 .jupyter
