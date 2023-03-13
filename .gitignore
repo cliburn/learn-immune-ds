@@ -3,12 +3,15 @@
 *.tepitope
 *.pem
 *.txt
+*.h5ad
 README.pdf
 alleles.csv
 
 data/
 supporting_file/
 models/
+FlowKit/
+
 
 .DS_Store
 .bash_history
