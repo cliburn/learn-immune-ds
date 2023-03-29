@@ -4,6 +4,9 @@
 *.pem
 *.txt
 *.h5ad
+*.bin
+*.tree
+*.weights
 README.pdf
 alleles.csv
 
